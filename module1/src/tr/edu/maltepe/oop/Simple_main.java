@@ -3,7 +3,7 @@ public  class Simple_main {
 
  public static void main(String []args){
         //
-       System.out.println("Emirhan DELLAL");
+       System.out.println("Emirhan  DELLAL");
         }
 }
 
